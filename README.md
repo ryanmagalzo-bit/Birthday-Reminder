@@ -7,22 +7,26 @@
 ![JWT](https://img.shields.io/badge/JWT-Auth-orange.svg)
 ![bcrypt](https://img.shields.io/badge/bcrypt-Password-red.svg)
 
-## 📋 Project Information
+A **full-stack web application** that helps users never forget important birthdays of their family, friends, and loved ones. Built with Node.js, Express.js, JSON Server, and vanilla JavaScript following the MVC architecture pattern.
 
-| | |
-|---|---|
-| **Project Name** | Birthday Reminder System |
-| **Course** | ITP 121 - Full-Stack Web Development |
-| **Architecture** | MVC (Model-View-Controller) |
-| **Status** | ✅ Complete |
+**Live Demo:** *[Coming Soon]*
 
 ---
 
-## 📖 About The Project
+## 📋 Table of Contents
 
-The **Birthday Reminder System** is a full-stack web application that helps users never forget important birthdays of their family, friends, and loved ones. The application allows users to create accounts, securely log in, and maintain a personalized list of birthdays with names and dates. Each birthday automatically displays a countdown showing how many days remain until the next celebration, with special indicators for "Today!" and "Tomorrow!".
-
-The system features a beautiful, cake-themed user interface with floating animations, glass morphism effects, and full mobile responsiveness. Users can add, edit, and delete birthdays, change their password, and recover their account through a "Forgot Password" feature with verification codes.
+- [Features](#features)
+- [Tech Stack](#tech-stack)
+- [Project Structure](#project-structure)
+- [Installation](#installation)
+- [Running the Application](#running-the-application)
+- [API Endpoints](#api-endpoints)
+- [Database Structure](#database-structure)
+- [Screenshots](#screenshots)
+- [Troubleshooting](#troubleshooting)
+- [Future Enhancements](#future-enhancements)
+- [Contributing](#contributing)
+- [License](#license)
 
 ---
 
